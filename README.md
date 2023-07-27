@@ -14,5 +14,5 @@ This is a simple javascript project made with the help of HTML, CSS and OpenWeat
 
 
 # check out live 
-Web Url: 
+Web Url: https://namanjain-29.github.io/Weather-app/
 
